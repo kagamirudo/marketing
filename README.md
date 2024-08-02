@@ -5,12 +5,12 @@ In this tutorial ([Open in Youtube](https://youtu.be/oU_iMhi1Ado)), I'm going to
 Here we have project screenshot :
 
 ### Home Page
-![screenshot-1](images/index.png)
+![screenshot-1](images/iris_1.png)
 ### Works Page
-![screenshot-2](images/works.png)
+![screenshot-2](images/iris_2.png)
 ### Single-Work Page
-![screenshot-3](images/single-work.png)
+![screenshot-3](images/iris_3.png)
 ### Blog Page
-![screenshot-4](images/blog.png)
+![screenshot-4](images/iris_4.png)
 ### About Page
-![screenshot-5](images/about.png)
+![screenshot-5](images/iris_5.png)
